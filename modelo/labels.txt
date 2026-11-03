@@ -1,0 +1,27 @@
+0 Beagle
+1 Bichon Frise
+2 Boston Terrier
+3 Boxer
+4 Buldogue Ingles
+5 Bulldog
+6 Bulldog Frances
+7 Cavalier King Charles Spaniel
+8 Chihuahua
+9 Cocker Spaniel Ingles
+10 Dachshund
+11 Fox Paulistano
+12 Golden Retriever
+13 Jack Russell Terrier
+14 Labrador Retriever
+15 Lhasa Apso
+16 Maltes
+17 Pastor Alemão
+18 Pequines
+19 Poodle
+20 Pug
+21 Rottweiler
+22 Schnauzer Miniatura
+23 Shih Tzu
+24 SRD
+25 West Highland White Terrier
+26 Yorkshire_Terrier

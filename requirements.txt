@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+python-multipart
+numpy
+oracledb
+Pillow
+python-dotenv
+tensorflow==2.21.0; python_version < "3.14"
+tensorflow==2.22.0rc0; python_version >= "3.14"
