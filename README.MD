@@ -1,4 +1,14 @@
-# CLYVO VET — API de apoio à teleconsulta
+CLYVO VET — API de apoio à teleconsulta
+
+## Integrantes
+
+| Nome | RM | Turma |
+|---|---:|---|
+| Gabriel Ambrósio Saraiva | RM566552 | 2TDSPV |
+| João Victor Vendrameto | RM563665 | 2TDSPV |
+| Nicolas de Oliveira Jacob | RM564205 | 2TDSPX |
+| Vinicius Romaguera Cardozo | RM562308 | 2TDSPX |
+| Yuri Fuzinatto Garzoli Barreto | RM561450 | 2TDSPX |
 
 API em Python que recebe uma imagem do pet, classifica a raça com um modelo TensorFlow Lite, consulta os cuidados associados no Oracle e retorna perguntas sugeridas em JSON. Ela foi preparada para ser consumida pelo backend Java da CLYVO VET.
 
